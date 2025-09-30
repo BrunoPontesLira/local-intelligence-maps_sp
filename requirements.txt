@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+requests
+numpy
+tqdm
+loguru
+factor_analyzer
+matplotlib 
+pingouin
+pyshp 
+scipy 
