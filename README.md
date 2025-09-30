@@ -1,4 +1,4 @@
-# Local Intelligence Maps
+# Local Intelligence Maps [ MBA USP/Esalq ]
 
 Análise espacial e socioeconômica de estabelecimentos comerciais em São Paulo utilizando dados do Google Places API e análise de componentes principais (PCA).
 
